@@ -1,5 +1,3 @@
-package FinalProject;
-
 import javax.swing.*;
 // a exception class to check if the name is being replaced
 public class ReplaceNameException extends Exception

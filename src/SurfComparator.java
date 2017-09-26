@@ -1,5 +1,3 @@
-package FinalProject;
-
 import java.util.Comparator;
 //sets the arraylist in order by Total Score
 class SurfComparator implements Comparator<SurfScore> {

@@ -1,6 +1,4 @@
-package FinalProject;
-
-/* Chapter No. All - Exercise: Final Project
+/*
    File Name:          SurfScore.java
    Programmer:         Jared Wines
    Date Last Modified: 12/1/13 @ 7:09 PM

@@ -1,5 +1,3 @@
-package FinalProject;
-
 import java.text.*;
 public class SurfScore {
     //instances variables for the surfer

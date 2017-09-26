@@ -1,5 +1,3 @@
-package FinalProject;
-
 //This Class holds all the surfers recorders to one value
 public class AllSurfRecords {
     String toString = "";

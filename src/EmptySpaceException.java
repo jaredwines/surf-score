@@ -1,5 +1,3 @@
-package FinalProject;
-
 import javax.swing.*;
 // a exception class to check if the textfield is empty
 public class EmptySpaceException extends Exception
